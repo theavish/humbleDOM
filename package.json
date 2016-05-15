@@ -1,6 +1,6 @@
 {
   "name": "humbledom",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Minimalist and modular JavaScript library for DOM manipulation.",
   "main": "index.js",
   "scripts": {
