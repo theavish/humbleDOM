@@ -1,0 +1,26 @@
+{
+  "name": "humbledom",
+  "version": "1.0.0",
+  "description": "Minimalist and modular JavaScript library for DOM manipulation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/humblecrew/humbleDOM.git"
+  },
+  "keywords": [
+    "dom",
+    "dom-manipulation",
+    "selectors",
+    "css",
+    "classes"
+  ],
+  "author": "Avi Samloff <avi.samloff@gmail.com> (http://avisamloff.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/humblecrew/humbleDOM/issues"
+  },
+  "homepage": "https://github.com/humblecrew/humbleDOM#readme"
+}
