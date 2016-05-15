@@ -4,6 +4,16 @@
 
 Minimalist and modular JavaScript library for utility methods and DOM manipulation.
 
+- - -
+
+Co-created by:
+
+@jonkvix ([github.com/jonkvix](http://www.github.com/jonkvix), [twitter.com/jonkvix](http://www.twitter.com/jonkvix), [jonkvix.com](http://www.jonkvix.com))
+
+@theavish ([github.com/theavish](http://www.github.com/theavish), [twitter.com/theavish](http://www.twitter.com/theavish), [avisamloff.com](http://www.avisamloff.com))
+
+- - -
+
 MIT License
 
 Copyright (c) 2016 humbleJS
