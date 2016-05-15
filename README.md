@@ -1,8 +1,8 @@
-# humblejs
+# humbleDOM
 
-![Alt text](http://s32.postimg.org/uv9l8dz3p/Screen_Shot_2016_05_15_at_5_14_06_AM.png "humblejs logo")
+![Alt text](http://s32.postimg.org/dhr4rrzzp/Screen_Shot_2016_05_15_at_8_22_04_AM.png "humblejs logo")
 
-Minimalist and modular JavaScript library for utility methods and DOM manipulation.
+Minimalist and modular JavaScript library for DOM manipulation.
 
 - - -
 
