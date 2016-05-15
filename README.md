@@ -1,6 +1,4 @@
-# humbleDOM
-
-![Alt text](http://s32.postimg.org/dhr4rrzzp/Screen_Shot_2016_05_15_at_8_22_04_AM.png "humblejs logo")
+![Alt text](http://s32.postimg.org/dhr4rrzzp/Screen_Shot_2016_05_15_at_8_22_04_AM.png "humbleDOM logo")
 
 Minimalist and modular JavaScript library for DOM manipulation.
 
@@ -16,7 +14,7 @@ Co-created by:
 
 MIT License
 
-Copyright (c) 2016 humbleJS
+Copyright (c) 2016 humbleDOM
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
